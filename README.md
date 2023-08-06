@@ -32,6 +32,4 @@ https://www.theengineeringprojects.com/2020/07/water-sensor-library-for-proteus.
 
 Compile the Arduino Code in the Arduino IDE, then copy the HEX file and dump it in the arduino of the above Proteus Simulation and Simulate it.
 
-For glimpse: Watch the video https://www.loom.com/share/27cdd88eb8b549959d1be6e46919fcd9
-
 
